@@ -1,0 +1,24 @@
+The goodies selected for distribution are: 
+Digital Camera: 11101
+IPods: 22349
+Fitbit Plus: 7980
+Macbook Pro: 229900
+
+And the difference between the chosen goodie with highest price and the lowest price is  221920
+The goodies selected for distribution are: 
+MI Band: 999
+Scale: 4999
+IPods: 22349
+Digital Camera: 11101
+Cult Pass: 2799
+
+And the difference between the chosen goodie with highest price and the lowest price is  21350
+The goodies selected for distribution are: 
+Digital Camera: 11101
+MI Band: 999
+Scale: 4999
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Cult Pass: 2799
+
+And the difference between the chosen goodie with highest price and the lowest price is  10102
